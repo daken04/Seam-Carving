@@ -10,14 +10,8 @@ Seam carving is a content-aware image resizing technique where the image is redu
 
 - A vertical seam in an image is a path of pixels connected from the top to the bottom with one pixel in each row.
 
-![Image 1]()
+![Image 1](img.jpeg)
 Original Image
-
-![Image 2]()
-Lowest Energy Seam
-
-![Image 3]()
-Resized image using Seam Carving
 
 
 ## Implementation Details
